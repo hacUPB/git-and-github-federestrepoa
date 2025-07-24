@@ -12,3 +12,5 @@ Abre tu terminal: Navega hasta el directorio de tu repositorio local.
 Añade el repositorio remoto: Usa el comando git remote add origin <URL_del_repositorio>. 
 Sube los cambios al repositorio remoto: Para subir los cambios de tu repositorio local al remoto, usa git push -u origin main (o la rama principal que estés utilizando). 
 Obtén los cambios del repositorio remoto: Para obtener los cambios del repositorio remoto y fusionarlos con tu repositorio local, usa git pull origin main (o la rama principal que estés utilizando). 
+
+![alt text](<../images/Captura de pantalla 2025-07-24 112618.png>)
