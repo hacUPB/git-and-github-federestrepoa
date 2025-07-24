@@ -10,3 +10,5 @@ Ejecuta el comando git init para crear el repositorio local. Esto inicializará 
 Utiliza git add <nombre_del_archivo> para agregar los archivos que deseas rastrear al área de preparación de Git. Puedes usar git add . para agregar todos los archivos modificados. 
 5. Realiza un commit:
 Usa git commit -m "Mensaje del commit" para guardar los cambios en el repositorio con un mensaje descriptivo. El mensaje del commit debe explicar los cambios realizados. 
+
+![alt text](<../images/Captura de pantalla 2025-07-24 110440.png>)
