@@ -8,3 +8,8 @@ crea:
 para crear una carpeta puedes utlizar el comando mkdir junto al nombrfe de la carpeta que quieres crear 
 
 para crear un archivo utilizas el comando touch junto con el nombre y el tipo de archivo que quieres crear
+
+S
+
+
+![alt text](../images/primer.png)S

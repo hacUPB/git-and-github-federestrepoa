@@ -4,18 +4,15 @@
 Nombre del estudiante:  federico restrepo
 Id.:  000510447
 ---
-link a documento 
+| Documento                    | Descripción                                         | Enlace                      |
+|-----------------------------|---------------------------------------------------|-----------------------------|
+| Uso de la consola            | Comandos y conceptos para navegar y crear archivos| [uso_consola.md](docs/uso_consola.md)          |
+| Repositorio local            | Cómo crear y manejar un repositorio local con Git | [repositorio_local.md](docs/repositorio_local.md)  |
+| Repositorio remoto           | Crear repositorio en GitHub y sincronizar con local| [repositorio_remoto.md](docs/repositorio_remoto.md) |
 
-[ Enlace a archivos Markdown](/doc/archivos_Markdown.md)
-
-[ Enlace a repositorio local](/doc/repositorio_local.md)
-
-[ Enlnace repositorio remoto](/doc/repositorio_remoto.md)
-
-[ Enlace uso consola](/doc/uso_consola.md)
 
 ### **Descripción de la Actividad:**
-
+SS
 Este repositorio contiene la estructura y documentación de un proyecto de programación básico, centrado en el uso de Git, GitHub y la consola de comandos. El objetivo principal es demostrar el conocimiento adquirido sobre la organización de un proyecto, control de versiones y documentación técnica.
 
 ## Estructura del Proyecto
