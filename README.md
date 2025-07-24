@@ -4,10 +4,17 @@
 Nombre del estudiante:  federico restrepo
 Id.:  000510447
 ---
-# Evaluación
+link a documento 
+
+[ Enlace a archivos Markdown](/doc/archivos_Markdown.md)
+
+[ Enlace a repositorio local](/doc/repositorio_local.md)
+
+[ Enlnace repositorio remoto](/doc/repositorio_remoto.md)
+
+[ Enlace uso consola](/doc/uso_consola.md)
 
 ### **Descripción de la Actividad:**
-
 
 Este repositorio contiene la estructura y documentación de un proyecto de programación básico, centrado en el uso de Git, GitHub y la consola de comandos. El objetivo principal es demostrar el conocimiento adquirido sobre la organización de un proyecto, control de versiones y documentación técnica.
 
@@ -112,3 +119,4 @@ El objetivo de esta actividad es crear y estructurar un proyecto de programació
 7. **Entrega:**
     - Sube los cambios en tu proyecto al repositorio remoto en GitHub.
     - Asegúrate de que toda la documentación esté completa y correctamente estructurada.
+
