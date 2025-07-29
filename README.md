@@ -1,11 +1,47 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/SoiS0_7u)
 # Unidad No. 1 - Git y GitHub
 ## Información del estudiante  
-Nombre del estudiante:  
-Id.:  
+Nombre del estudiante:  federico restrepo
+Id.:  000510447
 ---
-# Evaluación
+| Documento                    | Descripción                                         | Enlace                      |
+|-----------------------------|---------------------------------------------------|-----------------------------|
+| Uso de la consola            | Comandos y conceptos para navegar y crear archivos| [uso_consola.md](docs/uso_consola.md)          |
+| Repositorio local            | Cómo crear y manejar un repositorio local con Git | [repositorio_local.md](docs/repositorio_local.md)  |
+| Repositorio remoto           | Crear repositorio en GitHub y sincronizar con local| [repositorio_remoto.md](docs/repositorio_remoto.md) |
+
 
 ### **Descripción de la Actividad:**
+SS
+Este repositorio contiene la estructura y documentación de un proyecto de programación básico, centrado en el uso de Git, GitHub y la consola de comandos. El objetivo principal es demostrar el conocimiento adquirido sobre la organización de un proyecto, control de versiones y documentación técnica.
+
+## Estructura del Proyecto
+
+- **src/**: Carpeta que contiene el código fuente. Incluye un script en Python para calcular el promedio de una lista de números.
+- **docs/**: Contiene archivos de documentación en formato Markdown sobre los siguientes temas:
+  - Uso de la consola.
+  - Creación de repositorios locales con Git.
+  - Sincronización con repositorios remotos en GitHub.
+- **images/**: Carpeta destinada a imágenes relacionadas con el proyecto (como capturas de pantalla de la consola o del proceso en GitHub).
+- **.gitignore**: Archivo que define qué archivos o carpetas deben ser ignorados por Git.
+- **README.md**: Este archivo, que describe el propósito y la estructura del repositorio.
+
+Abre tu terminal (consola de comandos).
+
+Navega al directorio donde deseas clonar el proyecto:
+
+bash
+Copiar
+Editar
+cd ruta/del/directorio
+Clona el repositorio desde GitHub:
+
+bash
+Copiar
+Editar
+git clone https://github.com/tu-usuario/prog-Eval_Template.git
+Ingresa al directorio del proyecto:
+
 
 El objetivo de esta actividad es crear y estructurar un proyecto de programación utilizando Git y GitHub. Aunque el código fuente será un componente mínimo, el enfoque estará en la organización del proyecto y la documentación de lo aprendido sobre los siguientes temas:
 
@@ -80,3 +116,4 @@ El objetivo de esta actividad es crear y estructurar un proyecto de programació
 7. **Entrega:**
     - Sube los cambios en tu proyecto al repositorio remoto en GitHub.
     - Asegúrate de que toda la documentación esté completa y correctamente estructurada.
+
